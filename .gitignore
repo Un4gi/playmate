@@ -1,0 +1,8 @@
+*.bin
+*.dll
+*.exe
+*.exp
+*.lib
+*.obj
+*.so
+*ellc*.cpp
