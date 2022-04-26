@@ -1,6 +1,8 @@
 # Playmate
 
-<p align="center"><img src=img/playmate.png></p>
+![GitHub](https://img.shields.io/github/license/un4gi/playmate) [![Twitter Follow](https://img.shields.io/twitter/follow/un4gi_io?label=%40un4gi_io&style=social)](https://twitter.com/un4gi_io)
+
+<p align="center"><img src="img/playmate.PNG"></p>
 
 Inspired by a [Securify blog post](https://www.securify.nl/blog/autorun-is-dead-long-live-autorun/), playmate is a CLI tool designed to automate the workflow of creating autoplay CDs for Penetration Testing or Red Team use.
 
