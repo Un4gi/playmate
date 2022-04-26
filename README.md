@@ -14,7 +14,7 @@ Use the "build" command to build an ISO containing an autorun file for the opera
 
 ## Installation
 
-For an easy installation, download the latest release for your operating system at <>.
+For an easy installation, download the latest release for your operating system at <https://github.com/Un4gi/playmate/releases/>.
 
 To install using Go, issue the following command:
 
