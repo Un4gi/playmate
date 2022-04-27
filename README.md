@@ -12,6 +12,10 @@ Use the "build" command to build an ISO containing an autorun file for the opera
 
 ---
 
+## Requirements
+
+Currently, playmate utilizes the cl.exe compiler and requires an installation of Visual Studio in order to run on Windows systems. A future release will be updated to support compilation using gcc for a more lightweight build process.
+
 ## Installation
 
 For an easy installation, download the latest release for your operating system at <https://github.com/Un4gi/playmate/releases/>.
